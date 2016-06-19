@@ -324,6 +324,10 @@ a.pure-button-primary {
     margin: auto;
 }
 
+#flickr-slideshow {
+    width:100%;
+}
+
 .footer a {
     color: white;
 }
